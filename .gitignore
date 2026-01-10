@@ -1,0 +1,63 @@
+# Python virtual envs (local environments)
+venv/
+.venv/
+env/
+ENV/
+
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Pytest / testing
+.pytest_cache/
+
+# Pipenv / poetry
+Pipfile.lock
+poetry.lock
+
+# SQLite DBs
+*.sqlite3
+*.db
+
+# Local environment variables & secrets
+.env
+.env.local
+credentials.json
+token.json
+
+# Docker
+docker-compose.override.yml
+**/pgdata/
+pgdata/
+
+# Large model / cache files (adjust to your local path)
+# e.g. Ollama or other model caches — DON'T check in local model files
+.ollama/
+models/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Other generated files
+*.bak
+*.tmp

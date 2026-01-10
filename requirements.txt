@@ -1,0 +1,7 @@
+langchain
+ollama
+psycopg2-binary
+pgvector
+google-api-python-client
+google-auth-oauthlib
+python-dotenv
