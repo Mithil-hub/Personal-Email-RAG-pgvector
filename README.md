@@ -2,7 +2,7 @@
 
 A local, privacy-preserving **Retrieval-Augmented Generation (RAG)** system for querying personal emails with **strict multi-user isolation**.
 
-Built for the **Ottometric AI/ML Engineer take-home assessment** (January 2026).
+Built as a practical exploration of privacy-preserving RAG systems
 
 ---
 
